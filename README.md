@@ -34,8 +34,8 @@ I thrive in **collaborative, problem-solving environments** where innovation and
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnaemekauzuegbu&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nnaemekauzuegbu&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xunna59&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xunna59&layout=compact&theme=tokyonight)
 
 ---
 
