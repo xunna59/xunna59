@@ -1,4 +1,4 @@
-# 🚀 Nnaemeka Uzuegbu — Backend Engineer | Full-Stack Developer
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nnaemeka+Uzuegbu;Backend+Engineer+%7C+Full-Stack+Developer;I+build+scalable+APIs+%26+apps;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
