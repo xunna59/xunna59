@@ -33,14 +33,10 @@ I thrive in **collaborative, problem-solving environments** where innovation and
 
 ---
 
-## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xunna59&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xunna59&layout=compact&theme=tokyonight)
 
----
 
 ## 🌱 Currently Learning
-- **Go** & **Rust** for high-performance backend systems  
+- **Go** & **Java** for high-performance backend systems  
 - Advanced **DevOps practices** for cloud-native scalability  
 
 ---
